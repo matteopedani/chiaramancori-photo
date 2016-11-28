@@ -73,3 +73,10 @@
 - title: "Contatti"
   url: "/contact/"
   side: right
+
+
+- title: "Info"
+  url: "/info/"
+  side: right
+
+
