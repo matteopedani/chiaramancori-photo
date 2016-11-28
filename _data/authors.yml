@@ -12,7 +12,8 @@ chiara: # replace this with your info
   email: chiara.mancori@pedani.it
   twitter: "@chiaramancori"
 # you can add more authors here
-robin_geall:
+matteo:
     name:  "Matteo Pedani"
     email: matteo@pedani.it
-    web: http://www.pedani.it
+    uri: http://www.pedani.it/
+
