@@ -14,5 +14,12 @@ Phone +39 0699341466
 mobile +39 3771723163  
 [chiara@pedani.it][4]  
 
- 
+
+ [1]: #
+ [2]: #
+ [3]: #
+ [4]: mailto:chiara@pedani.it
+ [5]: #
+ [6]: #
+ [7]: #
    
