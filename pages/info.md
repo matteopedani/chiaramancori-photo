@@ -21,11 +21,11 @@ header:
 
 ## About
 
-Graduating from being an assistant with her father, the photographer <a href="http://http://www.giancarlomancori.it/">Giancarlo Mancori</a>, an italian leading figure of the the seventies intellectual scene. Chiara Mancori started to work into the darkroom and taking portraits of celebrities as assistant with the photographer  <a href="http://www.pasqualemodica.it">Pasquale Modica</a> after with Stefania Amodio. Evolved working with photos to models, actors, cultures figures. She specialized in portrait and photo architecture following the  teacher and  photographer <a href="http://http://www.riccardoabbondanza.it/">Riccardo Abbondanza</a>.
+Graduating from being an assistant with her father, the photographer   [Giancarlo Mancori][1] , an italian leading figure of the the seventies intellectual scene. Chiara Mancori started to work into the darkroom and taking portraits of celebrities as assistant with the photographer  [Pascquale Modica][2] after with Stefania Amodio. Evolved working with photos to models, actors, cultures figures. She specialized in portrait and photo architecture following the  teacher and  photographer [Riccardo Abbondanza][3].
 
 ## Chi sono
 
-Subito dopo aver conseguito il diploma magistrale nel 1984, giovanissima dal 1986 inizia a lavorare come stampatrice e fotografa affiancando il padre, il fotografo  <a href="http://http://www.giancarlomancori.it/">Giancarlo Mancori</a>. Affianca il fotografo di celebrità <a href="http://www.pasqualemodica.it">Pasquale Modica</a>. Dopo aver lavorato come assistente della fotografa ritrattista Stefania Amodio, si specializza nel genere del ritratto  e in fotografia  architettonica , completa la sua formazione collaborando presso lo studio del fotografo  <a href="http://http://www.riccardoabbondanza.it/">Riccardo Abbondanza</a>, PICSEL studio
+Subito dopo aver conseguito il diploma magistrale nel 1984, giovanissima dal 1986 inizia a lavorare come stampatrice e fotografa affiancando il padre, il fotografo[Giancarlo Mancori][1]. Affianca il fotografo di celebrità[Pascquale Modica][2]. Dopo aver lavorato come assistente della fotografa ritrattista Stefania Amodio, si specializza nel genere del ritratto  e in fotografia  architettonica , completa la sua formazione collaborando presso lo studio del fotografo  [Riccardo Abbondanza][3], PICSEL studio
 
 
 
@@ -61,9 +61,9 @@ Please make *Feeling Responsive* yours and if you like it, please link back to m
 Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
+ [1]: http://http://www.giancarlomancori.it/
+ [2]: http://www.pasqualemodica.it/
+ [3]: http://http://www.riccardoabbondanza.it/
  [4]: http://alistapart.com/
  [5]: http://www.smashingmagazine.com/
  [6]: https://github.com/
