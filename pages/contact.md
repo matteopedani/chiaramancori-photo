@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 meta_title: ""
 subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? // Use the contact form."
+teaser: <a href="mailto:chiara@pedani.it" class="alert button">scrivici -  write us</a>
 permalink: "/contact/"
 ---
 
