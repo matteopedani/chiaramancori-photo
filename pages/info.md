@@ -16,13 +16,13 @@ Subito dopo aver conseguito il diploma magistrale nel 1984, giovanissima dal 198
 ### Contact me - Contattateci 
 
 
-<span class="teaser">
+> <span class="teaser">
    Via dell'alberata 3
    00046 Grottaferrata RM
    Phone +39 0699341466
    mobile +39 3771723163
    [chiara@pedani.it][4]
-   </span>span>
+   </span>
    
    
 
