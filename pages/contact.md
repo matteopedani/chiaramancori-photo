@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Contact"
-meta_title: " Contact me - Contattateci "
+meta_title: ""
 subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+teaser: "Get in touch with me? // Use the contact form."
 permalink: "/contact/"
 ---
 
@@ -13,6 +13,12 @@ Via dell'alberata 3
 Phone +39 0699341466  
 mobile +39 3771723163  
 [chiara@pedani.it][4]  
+
+callforaction:
+  url: mailto:chiara@pedani.it
+  text: Contact Me
+  style: alert
+permalink: /
 
 
  [1]: #
