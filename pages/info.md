@@ -1,12 +1,34 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "photographer "
 teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
+
+
+
+
+<h4>Chiara Mancori</h4>
+</br> Via dell'alberata 3
+</br> 00046 Grottaferrata RM
+</br> Phone +39 0699341466
+</br> mobile +39 3771723163
+</br> <a href="mailto:chiara@pedani.it">chiara@pedani.it</a>
+
+
+## About
+
+Graduating from being an assistant with her father, the photographer <a href="http://http://www.giancarlomancori.it/">Giancarlo Mancori</a>, an italian leading figure of the the seventies intellectual scene. Chiara Mancori started to work into the darkroom and taking portraits of celebrities as assistant with the photographer  <a href="http://www.pasqualemodica.it">Pasquale Modica</a> after with Stefania Amodio. Evolved working with photos to models, actors, cultures figures. She specialized in portrait and photo architecture following the  teacher and  photographer <a href="http://http://www.riccardoabbondanza.it/">Riccardo Abbondanza</a>.
+
+## Chi sono
+
+Subito dopo aver conseguito il diploma magistrale nel 1984, giovanissima dal 1986 inizia a lavorare come stampatrice e fotografa affiancando il padre, il fotografo  <a href="http://http://www.giancarlomancori.it/">Giancarlo Mancori</a>. Affianca il fotografo di celebrità <a href="http://www.pasqualemodica.it">Pasquale Modica</a>. Dopo aver lavorato come assistente della fotografa ritrattista Stefania Amodio, si specializza nel genere del ritratto  e in fotografia  architettonica , completa la sua formazione collaborando presso lo studio del fotografo  <a href="http://http://www.riccardoabbondanza.it/">Riccardo Abbondanza</a>, PICSEL studio
+
+
+
 ...and learn at the same time.
 
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
