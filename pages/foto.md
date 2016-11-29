@@ -7,7 +7,7 @@ header:
    image_fullwidth: "/images/ritratti-bn/giovanna_mancori_occhi.jpg"
 permalink: "/foto/"
 ---
-
+Testo 
 <ul>
     {% for post in site.categories.foto %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
