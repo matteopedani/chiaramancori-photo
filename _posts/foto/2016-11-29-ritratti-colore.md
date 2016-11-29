@@ -6,7 +6,7 @@ layout: page
 subheadline: "bla bla sub"
 title: "Ritratti a colori Color portraits"
 teaser: "bla bla teaser"
-categories: "foto"
+categories: foto
   -
 tags:
   -
