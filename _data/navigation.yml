@@ -8,9 +8,9 @@
   side: left
   dropdown:
   - title: "Portraits b&w  - Ritratti bianco e Nero"
-    url: "/foto/ritratti_bn/"
+    url: "/foto/ritratti-bn/"
   - title: "Portraits color  -  Ritratti colore"
-    url: "/foto/ritratti_colore/"
+    url: "/foto/ritratti-colore/"
     - title: "County villas  -  Ville"
     url: "/foto/ville/"
     - title: "Holkland - Olanda"
