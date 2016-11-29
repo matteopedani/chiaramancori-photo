@@ -37,4 +37,4 @@ permalink:
 
 testo pagina
 
-![chiara]({{ site.url }}/images/chiara.jpg)
+![chiara](/images/chiara.jpg)
