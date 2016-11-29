@@ -36,3 +36,5 @@ permalink:
 {% include gallery %}
 
 testo pagina
+
+![chiara]({{ site.url }}/images/chiara.jpg)
