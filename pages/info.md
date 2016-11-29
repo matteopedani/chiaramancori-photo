@@ -6,6 +6,16 @@ teaser: ""
 permalink: "/info/"
 header:
     image_fullwidth: "chiara.jpg"
+#
+# Styling
+#
+image:
+  header: "chiara.jpg"
+  thumb: "chiara.jpg"
+  homepage: "/"
+  caption: ""
+  url: ""
+
 ---
 ## About me
 Graduating from being an assistant with her father, the photographer   [Giancarlo Mancori][1], an italian leading figure of the the seventies intellectual scene. Chiara Mancori started to work into the darkroom and taking portraits of celebrities as assistant with the photographer  [Pascquale Modica][2] after with Stefania Amodio. Evolved working with photos to models, actors, cultures figures. She specialized in portrait and photo architecture following the  teacher and  photographer [Riccardo Abbondanza][3].
