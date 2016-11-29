@@ -10,7 +10,7 @@ tags:
 categories:
     - design
 image:
-    thumb: gallery-example-2-thumb.jpg
+    thumb: chiara.jpg
     title: chiara.jpg
     caption: Unsplash.com
     caption_url: http://unsplash.com
