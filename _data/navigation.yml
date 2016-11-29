@@ -7,13 +7,13 @@
   url: "/foto/"
   side: left
   dropdown:
-  - title: "Portraits b&w  - Ritratti bianco e Nero"
+  - title: "Portraits b&w   Ritratti bianco e Nero"
     url: "/foto/ritratti-bn/"
-  - title: "Portraits color  -  Ritratti colore"
+  - title: "Portraits color   Ritratti colore"
     url: "/foto/ritratti-colore/"
-    - title: "County villas  -  Ville"
+    - title: "County villas    Ville"
     url: "/foto/ville/"
-    - title: "Holkland - Olanda"
+    - title: "Holkland  Olanda"
     url: "/foto/olanda/"
 
 
