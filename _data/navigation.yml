@@ -9,12 +9,10 @@
   - title: "ritratti colore"
     url: "/foto/ritratti-colore/"
 
-- title: "Templates"
-  url: "/design/"
+- title: "Blog"
+  url: "/blog/"
   side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
+
 
 - title: "Cerca"
   url: "/search/"
