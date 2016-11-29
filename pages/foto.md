@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
+title: "Style your photo!"
 subheadline: "Layouts of Feeling Responsive"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+   image_fullwidth: "ritratti-bn/giovanna_mancori_occhi.jpg"
+permalink: "/foto/"
 ---
 <ul>
     {% for post in site.categories.foto %}
