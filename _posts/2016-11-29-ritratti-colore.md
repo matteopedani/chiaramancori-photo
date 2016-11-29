@@ -3,10 +3,10 @@ layout: page
 #
 # Content
 #
-subheadline: ""
-title: ""
-teaser: ""
-categories:
+subheadline: "blabla sub"
+title: "Ritratti colore"
+teaser: "bla bla teaser"
+categories: ritratti
   -
 tags:
   -
