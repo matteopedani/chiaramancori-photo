@@ -8,9 +8,9 @@ title: "Ritratti a colori Color portraits"
 teaser: "bla bla teaser"
 categories: 
    - foto
-  -
 tags:
-  -
+  - "foto a colori"
+  - "color photos"
 #
 # Gallery
 #
