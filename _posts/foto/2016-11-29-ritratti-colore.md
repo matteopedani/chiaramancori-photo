@@ -4,9 +4,9 @@ layout: page
 # Content
 #
 subheadline: "bla bla sub"
-title: "Ritratti colore"
+title: "Ritratti a colori Color portraits"
 teaser: "bla bla teaser"
-categories: ritratti
+categories: "foto"
   -
 tags:
   -
