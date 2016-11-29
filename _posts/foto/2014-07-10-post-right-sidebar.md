@@ -11,7 +11,7 @@ categories:
     - design
 image:
     thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
+    title: chiara.jpg
     caption: Unsplash.com
     caption_url: http://unsplash.com
 ---
