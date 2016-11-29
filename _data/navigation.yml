@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "ritratti colore"
-    url: "/foto/ritratti-colore/"
+    url: "/ritratti/-/ritratti-colore/"
 
 - title: "Blog"
   url: "/blog/"
