@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "bla bla sub"
 title: "Ritratti a colori Color portraits"
-teaser: "bla bla teaser"
+teaser: "Fare un ritratto non è un semplice foto di una persona, ma catturarne lo spirito, in un attimo e cristallizzarlo"
 categories: 
    - foto
 tags:
@@ -15,11 +15,11 @@ tags:
 # Gallery
 #
 gallery:
-    - image_url: images/ritratti-col/Alessandra_De_Santis1.jpg
+    - image_url: /images/ritratti-col/Alessandra_De_Santis1.jpg
       caption: Alessandra De Santis
-    - image_url: images/ritratti-col/ALESSANDRA_DE_SANTIS.jpg
+    - image_url: /images/ritratti-col/ALESSANDRA_DE_SANTIS.jpg
       caption: Alessandra De Santis
-    - image_url: mages/ritratti-col/Beatrice_Palme_2.jpg
+    - image_url: /images/ritratti-col/Beatrice_Palme_2.jpg
       caption: Beatrice Palme
 #
 # Styling
