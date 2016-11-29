@@ -3,20 +3,12 @@
   side: left
 
 
-- title: "photos fotografie"
-  url: "/foto/"
+- title: "Templates"
+  url: "/design/"
   side: left
   dropdown:
-  - title: "Portraits b&w   Ritratti bianco e Nero"
-    url: "/foto/ritratti-bn/"
-  - title: "Portraits color   Ritratti colore"
-    url: "/foto/ritratti-colore/"
-    - title: "County villas    Ville"
-    url: "/foto/ville/"
-    - title: "Holkland  Olanda"
-    url: "/foto/olanda/"
-
-
+  - title: "Grid & Colors"
+    url: "/design/grid/"
 
 - title: "Cerca"
   url: "/search/"
