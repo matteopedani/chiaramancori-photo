@@ -33,3 +33,5 @@ permalink:
 ---
 
 {% include gallery %}
+
+testo pagina
