@@ -35,6 +35,6 @@ permalink:
 
 {% include gallery %}
 
-testo pagina
+testo pagina con foto
 
 ![chiara](/images/chiara.jpg)
