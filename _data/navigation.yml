@@ -2,6 +2,12 @@
   url: "/"
   side: left
 
+- title: "Fotografie Photos"
+  url: "/foto/"
+  side: left
+  dropdown:
+  - title: "ritratti colore"
+    url: "/foto/ritratti-colore/"
 
 - title: "Templates"
   url: "/design/"
