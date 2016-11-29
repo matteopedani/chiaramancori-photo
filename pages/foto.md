@@ -4,7 +4,7 @@ show_meta: false
 title: "Style your photo!"
 subheadline: "Layouts of Feeling Responsive"
 header:
-   image_fullwidth: "ritratti-bn/giovanna_mancori_occhi.jpg"
+   image_fullwidth: "/ritratti-bn/giovanna_mancori_occhi.jpg"
 permalink: "/foto/"
 ---
 <ul>
