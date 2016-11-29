@@ -15,11 +15,11 @@ tags:
 # Gallery
 #
 gallery:
-    - image_url: /images/ritratti-col/Alessandra_De_Santis1.jpg
+    - image_url: ritratti-col/Alessandra_De_Santis1.jpg
       caption: Alessandra De Santis
-    - image_url: /images/ritratti-col/ALESSANDRA_DE_SANTIS.jpg
+    - image_url: ritratti-col/ALESSANDRA_DE_SANTIS.jpg
       caption: Alessandra De Santis
-    - image_url: /images/ritratti-col/Beatrice_Palme_2.jpg
+    - image_url: ritratti-col/Beatrice_Palme_2.jpg
       caption: Beatrice Palme
 #
 # Styling
@@ -37,4 +37,4 @@ permalink:
 
 testo pagina con foto
 
-![chiara](/images/chiara.jpg)
+![chiara](chiara.jpg)
