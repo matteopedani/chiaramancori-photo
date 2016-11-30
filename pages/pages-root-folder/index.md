@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: IMG_9085_elab_testata.jpg
 widget1:
   title: "Portfolio"
-  url: "{{ site.url }}{{ site.baseurl }}/blog/"
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  url: "/foto/"
+  image: IMG_9032_elab.jpg
+  text: 'La mia esperienza  spazia dai ritratti, alle immagini di architettura e d'interni, fino ad arrivare alle immagini di cibo, guarda alcuni esempi.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: mailto:chiara@pedani.it
+  text: affittami   hire me
   style: alert
 permalink: /index.html
 #
