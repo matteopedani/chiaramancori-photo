@@ -20,6 +20,10 @@ gallery:
       caption: Enrico_Cernia
   - image_url: ritratti-bn/Federica_Lorusso_11.jpg
       caption: Federica Lorusso
+---
+Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
+
+
   - image_url: ritratti-bn/Federica_Lorusso_13_piccola.jpg
       caption: Federica Lorusso
   - image_url: ritratti-bn/federica_lorusso_1.jpg
@@ -32,9 +36,17 @@ gallery:
       caption: Giorgio
   - image_url: ritratti-bn/giovanna_mancori.jpg
       caption: Giovanna Mancori  
----
-Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 
+claudio_impenna.jpg
+Enrico_Cernia_1.jpg
+Enrico_Cernia.jpg
+Federica_Lorusso_11.jpg
+Federica_Lorusso_13_piccola.jpg
+federica_lorusso_1.jpg
+Francesca_Catani_5.jpg
+Francesca_Catani__super.jpg
+giorgio.jpg
+giovanna_mancori.jpg
 <!--more-->
 
 {% include gallery %}
