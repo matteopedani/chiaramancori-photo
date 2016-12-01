@@ -2,16 +2,16 @@
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
+# this work, you have to use › layout: frontpage  
 #
 layout: frontpage
 header:
-  image_fullwidth: IMG_9085_elab_testata.jpg
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Portfolio"
-  url: "/foto/"
-  image: IMG_9032_elab.jpg
-  text: 'La mia esperienza  spazia dai ritratti, alle immagini di architettura e d'interni, fino ad arrivare alle immagini di cibo, guarda alcuni esempi.'
+  title: "Blog & Portfolio" 
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  image: widget-1-302x182.jpg
+  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: mailto:chiara@pedani.it
-  text: affittami   hire me
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
   style: alert
 permalink: /index.html
 #
@@ -50,4 +50,3 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
- 
