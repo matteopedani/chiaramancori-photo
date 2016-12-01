@@ -28,8 +28,6 @@ gallery:
       caption:  Federica Lorusso
     - image_url: ritratti-col/Federica_Lorusso_6.jpg
       caption:  Federica Lorusso
-    - image_url: ritratti-col/Federica_Lorusso_7.jpg
-      caption:  Federica Lorusso
     - image_url: ritratti-col/Federica_Lorusso.jpg
       caption:  Federica Lorusso
     - image_url: ritratti-col/Federica_Lorusso_lavorata.jpg
@@ -56,10 +54,12 @@ gallery:
       caption: Ornella Rota
     - image_url: ritratti-col/Serena_Stoppoloni.jpeg
       caption: Serena Stoppoloni
+    - image_url: ritratti-col/Federica_Lorusso_7.jpg
+      caption:  Federica Lorusso
     - image_url: ritratti-col/Sveniai.jpg
       caption: Sveniai
 ---
-Durante gtli anni mi sono dedicata a fare ritratti qui una selezione.
+Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 
 <!--more-->
 
