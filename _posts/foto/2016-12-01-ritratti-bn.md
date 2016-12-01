@@ -11,8 +11,7 @@ image:
    thumb:  ritratti-bn/giorgio.jpg
 gallery:
   - image_url: ritratti-bn/alessandra_perugia.jpg
-      caption: Alessandra Perugia
-
+    caption: Alessandra Perugia
 ---
 Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 

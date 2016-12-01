@@ -30,8 +30,6 @@ gallery:
       caption:  Federica Lorusso
     - image_url: ritratti-col/Federica_Lorusso.jpg
       caption:  Federica Lorusso
-    - image_url: ritratti-col/Federica_Lorusso_lavorata.jpg
-      caption:  Federica Lorusso
     - image_url: ritratti-col/firenze_gioandrez_1.jpeg
       caption:  Gioandrez
     - image_url: ritratti-col/firenze_Gioandrez.jpg
