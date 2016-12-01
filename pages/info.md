@@ -7,6 +7,74 @@ permalink: "/info/"
 header:
     image_fullwidth: "IMG_9085_elab_testata.jpg"
 ---
+
+<table class="row">
+
+                  <tr>
+
+
+
+                    <td class="wrapper">
+
+
+
+                      <table class="four columns" >
+
+                        <tr>
+
+                         <td class="center" align="center">
+
+                           <center>
+
+                             <img class="center" src="http://placekitten.com/g/600/600" width="128" height="154" alt="Majestic Kitty" />
+
+                           </center>
+
+                         </td>
+
+                          <td class="expander"></td>
+
+                        </tr>
+
+                      </table>
+
+
+
+                    </td>
+
+
+
+                    <td class="wrapper last">
+
+
+
+                      <table class="eight columns">
+
+                        <tr>
+
+                          <td>
+
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor ipsa obcaecati iusto consequatur laudantium voluptas odio! Iure at aliquid pariatur sapiente sint, et facilis ipsa, maiores deleniti, minima perspiciatis sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa voluptatem ipsam quae nostrum. Dicta hic, cum similique quas perferendis excepturi, autem earum iste, sint vero quae rem dolorum illo quaerat.</p>
+
+                          </td>
+
+                          <td class="expander"></td>
+
+                        </tr>
+
+                      </table>
+
+
+
+                    </td>
+
+                    
+
+                  </tr>
+
+                </table>
+
+
 <div class="row">
   <div class="small-5 columns">
 Via dell'alberata 3 
