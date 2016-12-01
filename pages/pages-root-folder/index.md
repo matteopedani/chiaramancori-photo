@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: 'https://matteopedani.github.io/photographer/images/IMG_9085_elab_testata.jpg'
+  image_fullwidth: IMG_9085_elab_testata.jpg
 widget1:
   title: "Blog & Portfolio" 
   url: '/foto/'
