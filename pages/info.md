@@ -8,16 +8,14 @@ permalink: "/info/"
 breadcrumb: true
 header:
     image_fullwidth: "IMG_9085_elab_testata.jpg"
+<!---
 image:
     thumb: chiara.jpg
     title: chiara.jpg
     caption: Chiara Mancori photo by Matteo Pedani
     caption_url: mailto:chiara@pedani.it
+--->
 ---
-
-
- 
-
 
 ## About me
 Graduating from being an assistant with her father, the photographer   [Giancarlo Mancori][1], an italian leading figure of the the seventies intellectual scene. Chiara Mancori started to work into the darkroom and taking portraits of celebrities as assistant with the photographer  [Pascquale Modica][2] after with Stefania Amodio. Evolved working with photos to models, actors, cultures figures. She specialized in portrait and photo architecture following the  teacher and  photographer [Riccardo Abbondanza][3].
@@ -38,16 +36,3 @@ Subito dopo aver conseguito il diploma magistrale nel 1984, giovanissima dal 198
  [5]: #
  [6]: #
  [7]: #
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
