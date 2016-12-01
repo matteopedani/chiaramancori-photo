@@ -8,13 +8,6 @@ permalink: "/info/"
 breadcrumb: true
 header:
     image_fullwidth: "IMG_9085_elab_testata.jpg"
-<!---
-image:
-    thumb: chiara.jpg
-    title: chiara.jpg
-    caption: Chiara Mancori photo by Matteo Pedani
-    caption_url: mailto:chiara@pedani.it
---->
 ---
 
 ## About me
