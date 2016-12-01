@@ -114,13 +114,21 @@ With foundation responsive videos are easy. [More ›](http://foundation.zurb.co
 {% endhighlight %}
 
 
+
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
 
 ## Images: Title, Thumbnails, Homepage   {#images}
 
 There are several types of images you can define via front matter. If you want to change the images used in the header have a look at [Style your Header]({{ site.url }}/headers/). 
 
+### Images inside an article
 
+To add this image 
+<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
+just use 
+{% highlight html %}
+<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
+{% endhighlight %}
 ### Title Images
 
 ~~~
