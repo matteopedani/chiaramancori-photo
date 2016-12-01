@@ -9,18 +9,12 @@ header:
 ---
 
 <table class="row">
-  <tr>
-  <td class="wrapper">
+
   <table class="four columns" >
-  <tr>
   <td class="center" align="center">
       <img class="center" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
   </td>
-
- </tr>
  </table>
-  </td>
-  <td class="wrapper last">
   <table class="eight columns">
   <tr>
   <td>
@@ -34,8 +28,7 @@ mobile +39 3771723163 <br>
    </td>
 </tr>
 </table>
-</td>
-</tr>
+
 </table>
 
 
