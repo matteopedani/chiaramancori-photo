@@ -16,15 +16,6 @@ image:
 ---
 
 
-<img class="center" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
-  
- <p>
-Via dell'alberata 3 <br>
-00046 Grottaferrata RM  <br>
-Phone +39 0699341466  <br>
-mobile +39 3771723163 <br>
-<a href="mailto:chiara@pedani.it">chiara@pedani.it</a><br>
-    </p>
  
 
 
@@ -36,7 +27,7 @@ Subito dopo aver conseguito il diploma magistrale nel 1984, giovanissima dal 198
  
    
    
-<a href="mailto:chiara@pedani.it" class="alert button">scrivici -  write us</a>
+
 
 
 
