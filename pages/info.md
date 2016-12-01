@@ -8,13 +8,18 @@ header:
     image_fullwidth: "IMG_9085_elab_testata.jpg"
 ---
 <div class="row">
-  <div class="small-5 columns"><img class="t60" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
+  <div class="small-5 columns">
+Via dell'alberata 3 
+
+00046 Grottaferrata RM  
+
+Phone +39 0699341466  
+
+mobile +39 3771723163 
   </div>
   <div class="small-7 columns">
-Via dell'alberata 3  </br>
-00046 Grottaferrata RM  </br>
-Phone +39 0699341466  </br>
-mobile +39 3771723163  </br>
+    <img class="t60" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
+
   </div>
 </div>
 
