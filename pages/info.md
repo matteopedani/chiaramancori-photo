@@ -1,23 +1,24 @@
+
 ---
 layout: page
+sidebar: right
 title: "Chiara Mancori"
 subheadline: "photographer - fotografa"
-teaser: ""
+teaser: "This is an example of page/post with a sidebar on the right."
 permalink: "/info/"
+breadcrumb: true
 header:
     image_fullwidth: "IMG_9085_elab_testata.jpg"
+image:
+    thumb: chiara.jpg
+    title: chiara.jpg
+    caption: Chiara Mancori photo by Matteo Pedani
+    caption_url: mailto:chiara@pedani.it
 ---
 
-<table class="row">
 
-  <table class="four columns" >
-  <td class="center" align="center">
-      <img class="center" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
-  </td>
- </table>
-  <table class="eight columns">
-  <tr>
-  <td>
+<img class="center" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
+  
  <p>
 Via dell'alberata 3 <br>
 00046 Grottaferrata RM  <br>
@@ -25,11 +26,7 @@ Phone +39 0699341466  <br>
 mobile +39 3771723163 <br>
 <a href="mailto:chiara@pedani.it">chiara@pedani.it</a><br>
     </p>
-   </td>
-</tr>
-</table>
-
-</table>
+ 
 
 
 ## About me
