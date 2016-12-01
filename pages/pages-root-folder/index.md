@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Blog & Portfolio" 
   url: '/foto/'
-  image: https://matteopedani.github.io/photographer/images/MG_9032_elab.jpg
+  image: IMG_9032_elab.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget3:
   title: "Download Theme"
