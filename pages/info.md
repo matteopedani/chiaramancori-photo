@@ -32,6 +32,7 @@ Via dell'alberata 3 <br>
 00046 Grottaferrata RM  <br>
 Phone +39 0699341466  <br>
 mobile +39 3771723163 <br>
+<a href="mailto:chiara@pedani.it">chiara@pedani.it</a><br>
     </p>
    </td>
   <td class="expander"></td>
@@ -42,15 +43,6 @@ mobile +39 3771723163 <br>
 </table>
 
 
-<div class="row">
-  <div class="small-5 columns">
-
-  </div>
-  <div class="small-7 columns">
-
-
-  </div>
-</div>
 
 [chiara@pedani.it][4] 
 
