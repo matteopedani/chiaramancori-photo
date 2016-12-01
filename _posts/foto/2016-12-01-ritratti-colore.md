@@ -8,7 +8,7 @@ categories:
 tags:
     - post format
 image:
-   thumb: ritratti-bn/giorgio.jpg
+   thumb:  ritratti-col/Federica_Lorusso_7.jpg
 gallery:
     - image_url: ritratti-col/Alessandra_De_Santis1.jpg
       caption: Alessandra De Santis
