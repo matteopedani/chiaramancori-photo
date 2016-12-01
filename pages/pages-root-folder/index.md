@@ -11,12 +11,12 @@ widget1:
   title: "Blog & Portfolio" 
   url: '/foto/'
   image: IMG_9032_elab.jpg
-  text: 'I&rsquo;m starting to make new photos,  '
+  text: 'You can see my old photo on this site, but everyday I take  new photos. Are you looking for a particular photo. Just hire me, I will shoot the right photo for your business'
 widget2:
   title: "Blog & Portfolio" 
   url: '/foto/'
   image: IMG_9032_elab.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'In questo sito potete vedere le mie foto, anche se '
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: mailto:chiara@pedani.it?subject=I%20wont%20hire%20you.&cc=matteo@pedani.it&body=Send%20me%20more%20information%20on%20your%20work.
+  text: 'contact me  - contattami' 
   style: alert
 permalink: /index.html
 #
