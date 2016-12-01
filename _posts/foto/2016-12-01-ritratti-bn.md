@@ -12,26 +12,7 @@ image:
 gallery:
   - image_url: ritratti-bn/alessandra_perugia.jpg
       caption: Alessandra Perugia
-  - image_url: ritratti-bn/claudio_impenna.jpg
-      caption: claudio_impenna
-  - image_url: ritratti-bn/Enrico_Cernia_1.jpg
-      caption: Enrico_Cernia
-  - image_url: ritratti-bn/Enrico_Cernia.jpg
-      caption: Enrico_Cernia
-  - image_url: ritratti-bn/Federica_Lorusso_11.jpg
-      caption: Federica Lorusso
-  - image_url: ritratti-bn/Federica_Lorusso_13_piccola.jpg
-      caption: Federica Lorusso
-  - image_url: ritratti-bn/federica_lorusso_1.jpg
-      caption: Federica Lorusso
-  - image_url: ritratti-bn/Francesca_Catani_5.jpg
-      caption: Francesca Catani
-  - image_url: ritratti-bn/Francesca_Catani__super.jpg
-      caption: Francesca Catani
-  - image_url: ritratti-bn/giorgio.jpg
-      caption: Giorgio
-  - image_url: ritratti-bn/giovanna_mancori.jpg
-      caption: Giovanna Mancori     
+      
 ---
 Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 
