@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 title: "Chiara Mancori"
 subheadline: "photographer - fotografa"
-teaser: "This is an example of page/post with a sidebar on the right."
+teaser: ""
 permalink: "/info/"
 breadcrumb: true
 header:
@@ -16,12 +16,6 @@ Graduating from being an assistant with her father, the photographer   [Giancarl
 ## Chi sono
 Subito dopo aver conseguito il diploma magistrale nel 1984, giovanissima dal 1986 inizia a lavorare come stampatrice e fotografa affiancando il padre, il fotografo [Giancarlo Mancori][1]. Affianca il fotografo di celebrità [Pascquale Modica][2]. Dopo aver lavorato come assistente della fotografa ritrattista Stefania Amodio, si specializza nel genere del ritratto  e in fotografia  architettonica , completa la sua formazione collaborando presso lo studio del fotografo  [Riccardo Abbondanza][3], PICSEL studio
  
-   
-   
-
-
-
-
  [1]: http://http://www.giancarlomancori.it/
  [2]: http://www.pasqualemodica.it/
  [3]: http://www.riccardoabbondanza.it/
