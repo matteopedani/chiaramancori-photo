@@ -12,45 +12,30 @@ image:
 gallery:
   - image_url: ritratti-bn/alessandra_perugia.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/claudio_impenna.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/Enrico_Cernia_1.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/Enrico_Cernia.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/Federica_Lorusso_11.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/Federica_Lorusso_13_piccola.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/federica_lorusso_1.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/Francesca_Catani_5.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/Francesca_Catani__super.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/giorgio.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
+  - image_url: ritratti-bn/giovanna_mancori.jpg
     caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
-    caption: Alessandra Perugia
-  - image_url: ritratti-bn/alessandra_perugia.jpg
-    caption: Alessandra Perugia
----
+
 Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 
   
-
-claudio_impenna.jpg
-Enrico_Cernia_1.jpg
-Enrico_Cernia.jpg
-Federica_Lorusso_11.jpg
-Federica_Lorusso_13_piccola.jpg
-federica_lorusso_1.jpg
-Francesca_Catani_5.jpg
-Francesca_Catani__super.jpg
-giorgio.jpg
-giovanna_mancori.jpg
 <!--more-->
 
 {% include gallery %}
