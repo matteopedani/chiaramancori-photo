@@ -11,13 +11,15 @@ header:
   <div class="small-5 columns"><img class="t60" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
   </div>
   <div class="small-7 columns">
-Via dell'alberata 3  
-00046 Grottaferrata RM  
-Phone +39 0699341466  
-mobile +39 3771723163  
-[chiara@pedani.it][4] 
+Via dell'alberata 3  </br>
+00046 Grottaferrata RM  </br>
+Phone +39 0699341466  </br>
+mobile +39 3771723163  </br>
   </div>
 </div>
+
+[chiara@pedani.it][4] 
+
 ## About me
 Graduating from being an assistant with her father, the photographer   [Giancarlo Mancori][1], an italian leading figure of the the seventies intellectual scene. Chiara Mancori started to work into the darkroom and taking portraits of celebrities as assistant with the photographer  [Pascquale Modica][2] after with Stefania Amodio. Evolved working with photos to models, actors, cultures figures. She specialized in portrait and photo architecture following the  teacher and  photographer [Riccardo Abbondanza][3].
 
