@@ -31,8 +31,7 @@ gallery:
   - image_url: ritratti-bn/giorgio.jpg
       caption: Giorgio
   - image_url: ritratti-bn/giovanna_mancori.jpg
-      caption: Giovanna Mancori
-      
+      caption: Giovanna Mancori     
 ---
 Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 
