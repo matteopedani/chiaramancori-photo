@@ -9,17 +9,14 @@ header:
 ---
 
 <table class="row">
-
   <tr>
   <td class="wrapper">
   <table class="four columns" >
   <tr>
   <td class="center" align="center">
-  <center>
       <img class="center" src="{{ site.urlimg }}chiara.jpg" alt="Chiara Mancori">
- </center>
   </td>
-  <td class="expander"></td>
+
  </tr>
  </table>
   </td>
@@ -35,16 +32,12 @@ mobile +39 3771723163 <br>
 <a href="mailto:chiara@pedani.it">chiara@pedani.it</a><br>
     </p>
    </td>
-  <td class="expander"></td>
 </tr>
 </table>
 </td>
 </tr>
 </table>
 
-
-
-[chiara@pedani.it][4] 
 
 ## About me
 Graduating from being an assistant with her father, the photographer   [Giancarlo Mancori][1], an italian leading figure of the the seventies intellectual scene. Chiara Mancori started to work into the darkroom and taking portraits of celebrities as assistant with the photographer  [Pascquale Modica][2] after with Stefania Amodio. Evolved working with photos to models, actors, cultures figures. She specialized in portrait and photo architecture following the  teacher and  photographer [Riccardo Abbondanza][3].
