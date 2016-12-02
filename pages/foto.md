@@ -4,7 +4,7 @@ show_meta: false
 title: "Style your photo!"
 subheadline: "Layouts of Feeling Responsive"
 header:
-   image_fullwidth: "giovanna_mancori_occhi.jpg"
+   image_fullwidth: "Federica_Lorusso_7_testata.jpg"
 permalink: "/foto/"
 ---
 Test gio mancori occhi

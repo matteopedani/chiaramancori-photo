@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Blog & Portfolio" 
   url: '/foto/'
-  image: IMG_9032_elab.jpg
+  image: IMG_9091.JPG
   text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono '
 widget3:
   title: "Download Theme"
