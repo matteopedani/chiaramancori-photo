@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog & Portfolio" 
   url: '/foto/'
-  image: IMG_9032_elab.jpg
+  image: ritratti-col/Federica_Lorusso_7.jpg
   text: 'You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business'
 widget2:
   title: "Blog & Portfolio" 
