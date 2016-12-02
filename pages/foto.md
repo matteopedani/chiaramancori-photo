@@ -1,15 +1,10 @@
 ---
-layout: page
-show_meta: false
+layout: blog
 title: "Style your photo!"
-subheadline: "Layouts of Feeling Responsive"
+teaser: "Check out all photo in  archive. Click on a headline to read the teaser."
 header:
-   image_fullwidth: "Federica_Lorusso_7_testata.jpg"
+    image_fullwidth: "Federica_Lorusso_7_testata.jpg"
 permalink: "/foto/"
 ---
-Test gio mancori occhi
-<ul>
-    {% for post in site.categories.foto %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+
+
