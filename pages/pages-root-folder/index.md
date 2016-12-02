@@ -8,13 +8,13 @@ layout: frontpage
 header:
   image_fullwidth: IMG_9029_elab.jpg
 widget1:
-  title: "Blog & Portfolio" 
-  url: '/foto/'
+  title: "Works" 
+  url: '/blog/'
   image: ritratti-col/Federica_Lorusso_7.jpg
   text: 'You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business'
 widget2:
-  title: "Blog & Portfolio" 
-  url: '/foto/'
+  title: "Lavori" 
+  url: '/blog/'
   image: IMG_9091.JPG
   text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono '
 widget3:
@@ -44,9 +44,3 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
