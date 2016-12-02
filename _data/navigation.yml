@@ -2,17 +2,17 @@
   url: "/"
   side: left
 
-- title: "Lavori"
-  url: "/foto/"
-  side: left
-
-
-#- title: "Blog"
-#  url: "/blog/"
+#- title: "Lavori"
+#  url: "/foto/"
 #  side: left
-#  dropdown:
-#  - title: "archivio archive"
-#    url: "/blog/archive/"
+
+
+- title: "Lavori"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Archivio lavori"
+    url: "/blog/archive/"
 
 
 - title: "Cerca"

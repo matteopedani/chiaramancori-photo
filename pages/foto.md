@@ -1,10 +1,9 @@
 ---
 layout: blog
-title: "Style your photo!"
-teaser: "Check out all photo in  archive. Click on a headline to read the teaser."
+title: "Blog of Chiara Mancori"
+teaser: "This is the Chiara Mancori  Blog"
 header:
-    image_fullwidth: "Federica_Lorusso_7_testata.jpg"
-permalink: "/foto/"
+    image_fullwidth: "IMG_9085_elab_testata.jpg"
+permalink: /foto/
 ---
-
 
