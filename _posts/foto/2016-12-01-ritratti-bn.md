@@ -30,6 +30,9 @@ gallery:
     caption: Giorgio
   - image_url: ritratti-bn/giovanna_mancori.jpg
     caption: Giovanna Mancori
+  - image_url: ritratti-bn/francesco_x_sito.jpg
+    caption: Francesco Mancori
+ 
 ---
 Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 
