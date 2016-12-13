@@ -9,21 +9,16 @@ header:
   image_fullwidth: IMG_9029_elab.jpg
 widget1:
   title: "Works" 
-  url: '/blog/'
   image: ritratti-col/Federica_Lorusso_7.jpg
   text: ''
 widget2:
-  title: "Lavori" 
+  title: "" 
   url: '/blog/'
-  image: IMG_9091.JPG
-  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono. 
-  
-  You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business
+  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono. <br> You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business'
 widget3:
   title: "Lavori" 
-  url: '/blog/'
   image: ritratti-bn/giovanna_mancori.jpg
-  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono '
+  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
