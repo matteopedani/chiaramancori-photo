@@ -18,10 +18,10 @@ widget2:
   image: IMG_9091.JPG
   text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono '
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: ''
+  title: "Lavori" 
+  url: '/blog/'
+  image: ritratti-bn/giovanna_mancori.jpg
+  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono '
 #
 # Use the call for action to show a button on the frontpage
 #
