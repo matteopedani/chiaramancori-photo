@@ -13,6 +13,7 @@ widget1:
   text: ''
 widget2:
   title: "" 
+  image: 
   url: '/blog/'
   text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono. <br> You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business'
 widget3:
