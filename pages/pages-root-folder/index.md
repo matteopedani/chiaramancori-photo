@@ -8,18 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: IMG_9029_elab.jpg
 widget1:
-  title: "Works" 
+  title: "Works"
   image: ritratti-col/Federica_Lorusso_7.jpg
-  text: ''
+  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono.'
 widget2:
-  title: "" 
-  image: 
-  url: '/blog/'
-  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono. <br> You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business'
-widget3:
-  title: "Lavori" 
+  title: "Lavori"
   image: ritratti-bn/giovanna_mancori.jpg
-  text: ''
+  url: '/blog/'
+  text: 'You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business.'
+# widget3:
+#  title: "Works"
+#  image: ritratti-col/Federica_Lorusso_7.jpg
+#  url: '/blog/'
+#  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -31,7 +32,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: mailto:chiara@pedani.it?subject=I%20wont%20hire%20you.&cc=matteo@pedani.it&body=Send%20me%20more%20information%20on%20your%20work.
+  url: "mailto:Chiara%20Mancori%20Pedani<chiara@pedani.it>?subject=I%20wont%20hire%20you.&body=Send%20me%20more%20information%20on%20your%20work."
   text: 'contact me  - contattami' 
   style: alert
 permalink: /index.html
