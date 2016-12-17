@@ -30,7 +30,7 @@ gallery:
       caption:  Federica Lorusso
     - image_url: ritratti-col/Federica_Lorusso_7.jpg
       caption:  Federica Lorusso
-    - image_url: ritratti-col/firenze_gioandrez_1.jpeg
+    - image_url: ritratti-col/firenze_gioandrez_1.jpg
       caption:  Gioandrez
     - image_url: ritratti-col/firenze_Gioandrez.jpg
       caption: Gioandrez
@@ -52,7 +52,7 @@ gallery:
       caption: Luca Ragazzi
     - image_url: ritratti-col/ornella_rota_2.jpg
       caption: Ornella Rota
-    - image_url: ritratti-col/Serena_Stoppoloni.jpeg
+    - image_url: ritratti-col/Serena_Stoppoloni.jpg
       caption: Serena Stoppoloni
     - image_url: ritratti-col/Sveniai.jpg
       caption: Sveniai

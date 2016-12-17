@@ -30,9 +30,14 @@ gallery:
     caption: Giorgio
   - image_url: ritratti-bn/giovanna_mancori.jpg
     caption: Giovanna Mancori
+  - image_url: ritratti-bn/Vito_Riviello.jpg
+    caption: Vito Riviello
+  - image_url: ritratti-bn/Raja_1.jpg
+    caption: raja
   - image_url: ritratti-bn/francesco_x_sito.jpg
     caption: Francesco Mancori
- 
+  - image_url: ritratti-bn/Matteo_Pedani.jpg
+    caption: Matteo Pedani
 ---
 Durante gli anni mi sono dedicata a fare ritratti qui una selezione.
 
