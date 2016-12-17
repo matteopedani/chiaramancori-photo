@@ -12,8 +12,6 @@ image:
 gallery:
     - image_url: ritratti-col/Alessandra_De_Santis1.jpg
       caption: Alessandra De Santis
-    - image_url: ritratti-col/Laura_Marconi_Rivera3.jpg
-      caption: Laura Marconi Rivera
     - image_url: ritratti-col/ALESSANDRA_DE_SANTIS.jpg
       caption:  Alessandra De Santis
     - image_url: ritratti-col/Beatrice_Palme_2.jpg
@@ -30,10 +28,14 @@ gallery:
       caption:  Federica Lorusso
     - image_url: ritratti-col/Federica_Lorusso.jpg
       caption:  Federica Lorusso
+    - image_url: ritratti-col/Federica_Lorusso_7.jpg
+      caption:  Federica Lorusso
     - image_url: ritratti-col/firenze_gioandrez_1.jpeg
       caption:  Gioandrez
     - image_url: ritratti-col/firenze_Gioandrez.jpg
       caption: Gioandrez
+    - image_url: ritratti-col/Laura_Marconi_Rivera3.jpg
+      caption: Laura Marconi Rivera
     - image_url: ritratti-col/Laura_Marconi_Rivera.jpg
       caption: Laura Marconi Rivera
     - image_url: ritratti-col/Luca_Ragazzi_1.jpg
@@ -52,8 +54,6 @@ gallery:
       caption: Ornella Rota
     - image_url: ritratti-col/Serena_Stoppoloni.jpeg
       caption: Serena Stoppoloni
-    - image_url: ritratti-col/Federica_Lorusso_7.jpg
-      caption:  Federica Lorusso
     - image_url: ritratti-col/Sveniai.jpg
       caption: Sveniai
 ---
