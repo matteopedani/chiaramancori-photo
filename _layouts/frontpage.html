@@ -12,6 +12,17 @@ format: frontpage
 
 {% comment %}
 *
+* the  content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
+{% comment %}
+*
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
@@ -38,20 +49,6 @@ format: frontpage
 * First check, if there is a call for action-button
 *
 {% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
-{% if page.callforaction %}
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" 
-               href="{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-{% endif %}
-
 
 
 {% comment %}
@@ -101,14 +98,21 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforaction.style }}" 
+               href="{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
 
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
+
+

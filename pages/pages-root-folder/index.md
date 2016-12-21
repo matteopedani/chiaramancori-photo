@@ -2,27 +2,12 @@
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage  
+# this work, you have to use › layout: frontpage
 #
-layout: frontpage 
-header:
-  image_fullwidth: IMG_9029_elab.jpg
-widget1:
-  title: "Works"
-  image: ritratti-col/Federica_Lorusso_7.jpg
-  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono.'
-url: '/foto/ritratti-bn/'
-widget2: 
-  title: "Lavori"
-  image: ritratti-bn/giovanna_mancori.jpg
-  url: '/foto/ritratti-colore/'
-  text: 'You can see some of my old photo on this site, and also the new photos  I take each day. Are you looking for a particular photo? Just hire me, I will shoot the right photo for your business.'
-# widget3:
-#  title: "Works"
-#  image: ritratti-col/Federica_Lorusso_7.jpg
-#  url: '/blog/'
-#  text: 'In questo sito potete vedere alcune delle mie vecchie foto, oltre alle foto che scatto ogni giorno. Stai cercandouna foto particolare? Assoldami e scatterò le foto che ti servono.'
-#
+layout: frontpage
+header: no
+#  image_fullwidth: IMG_9487_elab.JPG
+
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
@@ -43,4 +28,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
