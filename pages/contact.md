@@ -4,7 +4,7 @@ title: "Contact"
 meta_title: ""
 subheadline: ""
 header:
-    image_fullwidth: "IMG_9487_elab.JPG"
+    image_fullwidth: "sito/IMG_9117_xsito.jpg"
 teaser: <a href="mailto:chiara@pedani.it" class="alert button">scrivici -  write us</a>
 permalink: "/contact/"
 ---

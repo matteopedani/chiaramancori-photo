@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/info/"
 breadcrumb: true
 header:
-    image_fullwidth: "IMG_9117_xsito.jpg"
+    image_fullwidth: "sito/IMG_9487_elab.JPG"
 ---
 
 ## About me

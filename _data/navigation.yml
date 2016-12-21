@@ -10,19 +10,21 @@
 - title: "Lavori"
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Archivio lavori"
-    url: "/blog/archive/"
+#  dropdown:
+#  - title: "Archivio lavori"
+#    url: "/blog/archive/"
 
-
-- title: "Cerca"
-  url: "/search/"
-  side: right
+- title: "Archivio"
+  url: "/blog/archive/"
+  side: left
+#  
+#- title: "Cerca"
+#  url: "/search/"
+#  side: right
 
 - title: "Contatti"
   url: "/contact/"
   side: right
-
 
 - title: "Info"
   url: "/info/"
