@@ -25,18 +25,20 @@ permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
+#<div class="row">
+#    <div class="small-11 small-centered columns">
 #
 #
 homepage: true
 ---
-
 <div class="row">
     <div class="small-11 small-centered columns">
-         <img src="/images/ritratti-bn/Federica_Lorusso_11.jpg" alt="Federica Lo Russo" >
+      <div class="responsive-embed  square">
+         <img src="/images/ritratti-bn/Federica_Lorusso_11_elab.jpg" alt="Federica Lo Russo" >
          <p class="text-left"> Federica Lo Russo </p>
-       </div>
+      </div>
     </div>
-
+</div>
 
 
 
