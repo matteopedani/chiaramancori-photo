@@ -13,7 +13,7 @@ gallery:
   - image_url: ritratti-bn/alessandra_perugia.jpg
     caption: Alessandra Perugia
   - image_url: ritratti-bn/claudio_impenna.jpg
-    caption: Claudio Impenna
+    caption: Claudio Impenna    
   - image_url: ritratti-bn/Enrico_Cernia.jpg
     caption: Enrico Cernia
   - image_url: ritratti-bn/Federica_Lorusso_11.jpg
