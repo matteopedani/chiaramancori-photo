@@ -38,9 +38,4 @@ homepage: true
          <p class="text-left"> Federica Lo Russo </p>
       </div>
     </div>
-</div>
-
-
-
-
-
+</div
