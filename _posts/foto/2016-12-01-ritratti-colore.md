@@ -3,6 +3,11 @@ layout: page
 subheadline:  "Ritratti"
 title:  "Colore"
 teaser: "Guardare, le persone e in un attimo coglierne l'aspetto."
+header:
+    image:  "ritratti-col/Sveniai.jpg"
+    pattern:  "pattern_concrete.jpg"
+    caption: "&copy; by  Chiara Mancori 2016"
+    caption_url: "/info/"
 categories:
     - foto
 tags:
