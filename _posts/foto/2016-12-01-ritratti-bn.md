@@ -3,6 +3,11 @@ layout: page
 subheadline:  "Ritratti"
 title:  "Bianco e Nero"
 teaser: "Guardare, le persone e in un attimo coglierne l'aspetto."
+header:
+    image:  "ritratti-bn/giovanna_mancori.jpg"
+    pattern:  "pattern_concrete.jpg"
+    caption: "&copy; by  Chiara Mancori 2016"
+    caption_url: "/info/"
 categories:
     - foto
 tags:
@@ -13,7 +18,7 @@ gallery:
   - image_url: ritratti-bn/alessandra_perugia.jpg
     caption: Alessandra Perugia
   - image_url: ritratti-bn/claudio_impenna.jpg
-    caption: Claudio Impenna
+    caption: Claudio Impenna    
   - image_url: ritratti-bn/Enrico_Cernia.jpg
     caption: Enrico Cernia
   - image_url: ritratti-bn/Federica_Lorusso_11.jpg
